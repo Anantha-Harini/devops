@@ -1,4 +1,8 @@
 uriknrokv
 mrototbblrbrbb
 jgjhhlkaa
+<<<<<<< HEAD
 kjkhhiok
+=======
+oiiiiio
+>>>>>>> b1
