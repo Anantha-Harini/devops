@@ -1,2 +1,0 @@
-This is a test1 file
-to be pushed from git to github
