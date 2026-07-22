@@ -1,5 +1,13 @@
 uriknrokv
 mrototbblrbrbb
 jgjhhlkaa
+<<<<<<< HEAD
 aaaaaa
 
+=======
+<<<<<<< HEAD
+kjkhhiok
+=======
+oiiiiio
+>>>>>>> b1
+>>>>>>> parent of a7b3651 (mergeds)
